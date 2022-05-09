@@ -1,0 +1,1208 @@
+[
+    {
+        "nama": "Weh",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "617 meter",
+        "estimasi_letusan_terakhir": "Pleistosen",
+        "geolokasi": "5.82°N 95.28°E",
+        "image" : "https://www.glory-travel.com/wp-content/uploads/2017/07/sabang.jpg"
+    },
+    {
+        "nama": "Seulawah Agam",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1810 meter",
+        "estimasi_letusan_terakhir": 1839,
+        "geolokasi": "5.448°N 95.658°E",
+        "image" : "https://www.mongabay.co.id/wp-content/uploads/2015/03/Gunung-berapi-Peut-Sagoe-di-Kabupaten-Pidie.jpg"
+        
+    },
+    {
+        "nama": "Peuet Sagoe",
+        "bentuk": "kompleks",
+        "tinggi_meter": "2801 meter",
+        "estimasi_letusan_terakhir": "25 Desember 2000",
+        "geolokasi": "4.914°N 96.329°E",
+        "image" : "https://baranom.files.wordpress.com/2014/02/picture111.png"
+
+    },
+    {
+        "nama": "Geureudong",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2885 meter",
+        "estimasi_letusan_terakhir": 1937,
+        "geolokasi": "4.813°N 96.82°E",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bur_ni_Telong.jpg"
+    },
+    {
+        "nama": "Kembar",
+        "bentuk": "perisai",
+        "tinggi_meter": "2245 meter",
+        "estimasi_letusan_terakhir": "Pleistosen",
+        "geolokasi": "3.850°N 97.664°E",
+        "image" : "https://media-cdn.tripadvisor.com/media/photo-s/09/fe/23/a0/gunung-marapi.jpg"
+    },
+    {
+        "nama": "Sibayak",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2212 meter",
+        "estimasi_letusan_terakhir": 1881,
+        "geolokasi": "3.23°N 98.52°E",
+        "image" : "https://mounture.com/wp-content/uploads/2019/09/Sibayak.png"
+    },
+    {
+        "nama": "Sinabung",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2460 meter",
+        "estimasi_letusan_terakhir": "2 Maret 2021",
+        "geolokasi": "3.17°N 98.392°E",
+        "image" : "https://statik.tempo.co/data/2021/03/11/id_1006518/1006518_720.jpg"
+
+
+    },
+    {
+        "nama": "Gunung Toba",
+        "bentuk": "supervulkan",
+        "tinggi_meter": "2157 meter",
+        "estimasi_letusan_terakhir": "72000 SM",
+        "geolokasi": "2.58°N 98.83°E",
+        "image" : "https://jabarekspres.com/wp-content/uploads/2021/12/Gunung-Toba-Supervulcano-yang-sedang-tertidur-dan-telah-lama-tidak-menunjukan-aktivitas-yang-meningkat-e1638659488230.jpg"
+    },
+    {
+        "nama": "Helatoba-Tarutung",
+        "bentuk": "Fumarol",
+        "tinggi_meter": "1100 meter",
+        "estimasi_letusan_terakhir": "Pleistosen",
+        "geolokasi": "2.03°N 98.93°E",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pemandangan_Bukit_Barisan%2C_Sumatra_Barat.jpg"
+    },
+    {
+        "nama": "Imun",
+        "bentuk": "N/A",
+        "tinggi_meter": "1505 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "2.158°N 98.93°E",
+        "image" : "https://upload.wikimedia.org/wikipedia/id/a/ae/Dolok_Imun.JPG"
+    },
+    {
+        "nama": "Sibualbuali",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1819 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "1.556°N 99.255°E",
+        "image" : "https://cdn.volcanoyt.com/val/045005.jpg"
+    },
+    {
+        "nama": "Lubukraya",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1862 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "1.478°N 99.209°E",
+        "image" : "https://img.okezone.com/content/2017/07/14/340/1736168/gunung-lubuk-raya-keluarkan-asap-hitam-pascagempa-5-5-sr-di-sumut-4lu0JRpkFP.jpg"
+    },
+    {
+        "nama": "Sorikmarapi",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2145 meter",
+        "estimasi_letusan_terakhir": 1986,
+        "geolokasi": "0.686°N 99.539°E",
+        "image" : "https://hmgf.fmipa.ugm.ac.id/wp-content/uploads/sites/483/2015/01/Gunung-Merapi-Jogja.jpg"
+    },
+    {
+        "nama": "Talakmau",
+        "bentuk": "kompleks",
+        "tinggi_meter": "2919 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "0.079°N 99.98°E",
+        "image" : "https://wisato.id/wp-content/uploads/2019/02/Gunung-Talamau.jpg"
+    },
+    {
+        "nama": "Sarik-Gajah",
+        "bentuk": "kerucut",
+        "tinggi_meter": "N/A",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "0.008°N 100.20°E",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gunung_Sarik_Gajah.jpg/1200px-Gunung_Sarik_Gajah.jpg"
+    },
+    {
+        "nama": "Marapi",
+        "bentuk": "kompleks",
+        "tinggi_meter": "2891 meter",
+        "estimasi_letusan_terakhir": "6 Juli 2017",
+        "geolokasi": "0.381°S 100.473°E",
+        "image" : "https://getlost.id/wp-content/uploads/2021/06/@gungafif.jpg"
+    },
+    {
+        "nama": "Singgalang",
+        "bentuk": "Stratovulkan",
+        "tinggi_meter": "2877 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "0.420°S 100.317°E",
+        "image" : "https://genpi.id/wp-content/uploads/2021/10/View-Gunung-Singgalang-dilihat-dari-arah-Bukittinggi-@fedofathuur_.jpg"
+    },
+    {
+        "nama": "Tandikat",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2438 meter",
+        "estimasi_letusan_terakhir": 1924,
+        "geolokasi": "0.433°S 100.317°E",
+        "image" : "https://cdn.antaranews.com/cache/800x533/2010/09/20100913130910122050_gunungtandikekpottal.jpg"
+    },
+    {
+        "nama": "Sago",
+        "bentuk": "Stratovulkan",
+        "tinggi_meter": "2271 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "0.354°S 100.378°E",
+        "image" : "https://padek.jawapos.com/wp-content/uploads/2020/11/gunung-sago.jpg"
+        
+    },
+    {
+        "nama": "Talang",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2597 meter",
+        "estimasi_letusan_terakhir": "12 April 2005",
+        "geolokasi": "0.978°S 100.679°E",
+        "image" : "https://rentalmobilpadang.co.id/wp-content/uploads/2020/03/Pesona-Gunung-Talang-Indahnya-Hutan-Mati-dan-Danau-Kembar.jpg"
+    },
+    {
+        "nama": "Kerinci",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "3800 meter",
+        "estimasi_letusan_terakhir": "17 Oktober 2020",
+        "geolokasi": "1.697°S 101.264°E",
+        "image" : "https://3.bp.blogspot.com/-6HG2I1GHbMY/V8ATa0qP-0I/AAAAAAAAL_4/w0l-aluXBR0YWHhPLnVDx9rtTtLZchWwwCLcB/s1600/kerinci.jpg"
+    },
+    {
+        "nama": "Hutapanjang",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2021 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "2.33°S 101.60°E",
+        "image" : ""
+    },
+
+    {
+        "nama": "Sumbing",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2507 meter",
+        "estimasi_letusan_terakhir": "23 Mei 1921",
+        "geolokasi": "2.414°S 101.728°E",
+        "image":"https://asset.kompas.com/crops/8vfJFkHa95q-Jl6-URjkWNOcXRA=/0x0:1200x800/750x500/data/photo/2020/09/19/5f65a842d8d53.jpg"
+    },
+    {
+        "nama": "Kunyit",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2151 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "2.592°S 101.63°E",
+        "image":"https://3.bp.blogspot.com/-m8HQziQiGaw/WG3ISp2z_hI/AAAAAAAABHI/rYt7sBUr6tA8QwlPzJFC496TODClxCxpwCLcB/s1600/g.kunyit.jpg"
+    },
+    {
+        "nama": "Pendan",
+        "bentuk": "N/A",
+        "tinggi_meter": "N/A",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "2.82°S 102.02°E",
+        "image":""
+    },
+    {
+        "nama": "Belirang-Beriti",
+        "bentuk": "gabungan",
+        "tinggi_meter": "1958 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "2.82°S 102.18°E",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/a/af/Belirang-Beriti.jpg"
+    },
+    {
+        "nama": "Bukit Daun",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2467 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "3.38°S 102.37°E",
+        "image":"https://www.kabartravel.id/wp-content/uploads/2021/02/bukit-daun.jpg"  
+    },
+    {
+        "nama": "Kaba",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1952 meter",
+        "estimasi_letusan_terakhir": "22 Agustus 2000",
+        "geolokasi": "3.52°S 102.62°E",
+        "image":"https://ksmtour.com/media/images/articles5/bukit-kaba-bengkulu.jpg"  
+    },
+    {
+        "nama": "Dempo",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "3173 meter",
+        "estimasi_letusan_terakhir": "1 Januari 2009",
+        "geolokasi": "4.03°S 103.13°E",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Gunung_dempo.jpg"  
+    },
+    {
+        "nama": "Patah",
+        "bentuk": "N/A",
+        "tinggi_meter": "2852 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "4.27°S 103.30°E",
+        "image":"https://img.okezone.com/content/2017/12/04/406/1824558/bertualang-tujuh-hari-di-hutan-belantara-menuju-puncak-gunung-patah-W5uEmMMS2r.jpg" 
+    },
+    {
+        "nama": "Bukit Lumut Balai",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2055 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "4.23°S 103.62°E",
+        "image":""  
+    },
+    {
+        "nama": "Besar",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1899 meter",
+        "estimasi_letusan_terakhir": "April 1940",
+        "geolokasi": "4.43°S 103.67°E",
+        "image":""  
+    },
+    {
+        "nama": "Ranau",
+        "bentuk": "kaldera",
+        "tinggi_meter": "1881 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "4.83°S 103.92°E",
+        "image":"http://asset-a.grid.id/crop/0x0:0x0/780x800/photo/bobofoto/original/83_danau-ranau-danau-terbesar-kedua-di-sumatera.jpg"  
+    },
+    {
+        "nama": "Sekincau Belirang",
+        "bentuk": "kaldera",
+        "tinggi_meter": "1719 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "5.12°S 104.32°E",
+        "image":"http://2.bp.blogspot.com/-dyiPA5lJ68k/ULdlc1rdgiI/AAAAAAAACUs/CeMz91z3SdA/s1600/gunung+sekincau.JPG"  
+    },
+    {
+        "nama": "Suoh",
+        "bentuk": "kaldera",
+        "tinggi_meter": "1000 meter",
+        "estimasi_letusan_terakhir": "10 Juli 1933",
+        "geolokasi": "5.25°S 104.27°E",
+        "image":"https://rakataonline.files.wordpress.com/2016/06/img_0452.jpg"  
+    },
+    {
+        "nama": "Hulubelu",
+        "bentuk": "kaldera",
+        "tinggi_meter": "1040 meter",
+        "estimasi_letusan_terakhir": 1836,
+        "geolokasi": "5.35°S 104.60°E",
+        "image":"https://www.mountain-forecast.com/mountainobjects/Hulubelu.jpg"  
+    },
+    {
+        "nama": "Rajabasa",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1281 meter",
+        "estimasi_letusan_terakhir": 1798,
+        "geolokasi": "5.78°S 105.625°E",
+        "image":"https://gambar.lampung.co/2018/06/Gunung-Rajabasa.jpg"  
+    },
+    {
+        "nama": "Krakatau",
+        "bentuk": "kaldera",
+        "tinggi_meter": "813 meter",
+        "estimasi_letusan_terakhir": "22 Desember 2018",
+        "geolokasi": "6.102°S 105.423°E",
+        "image":"https://phinemo.com/wp-content/uploads/2018/07/36159769_2094009100855847_4453369649836326912_n.jpg"  
+    },
+    {
+        "nama": "Pulosari",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1346 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "6.342°S 105.975°E",
+        "image":"https://www.bantennews.co.id/wp-content/uploads/2018/11/88848672.jpg"  
+    },
+    {
+        "nama": "Karang",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1778 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "6.27°S 106.042°E",
+        "image":"https://gunung.id/wp-content/uploads/2020/02/Gunung-Karang.jpg"
+    },
+    {
+        "nama": "Kiaraberes-Gagak",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1511 meter",
+        "estimasi_letusan_terakhir": "6 April 1939",
+        "geolokasi": "6.73°S 106.65°E",
+        "image":"https://www.mountain-forecast.com/system/images/15772/large/Gunung-Parang.jpg?1390842064"
+    },
+    {
+        "nama": "Perbakti",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1699 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "6.75°S 106.68°E",
+        "image":"https://volcano.si.edu/gallery/photos/GVP-04516.jpg"
+    },
+    {
+        "nama": "Salak",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2211 meter",
+        "estimasi_letusan_terakhir": "31 Januari 1938",
+        "geolokasi": "6.72°S 106.73°E",
+        "image":"https://blue.kumparan.com/image/upload/c_fill,f_jpg,h_900,q_auto,w_1200/g_south,l_og_kumparan_zscykb/co_rgb:ffffff,g_south_west,l_text:Heebo_20_bold:Konten%20Redaksi%20kumparan%0DkumparanTRAVEL,x_140,y_26/hav7jeon0yveqzqim3qb.jpg"
+    },
+    {
+        "nama": "Gede",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2958 meter",
+        "estimasi_letusan_terakhir": "13 Maret 1957",
+        "geolokasi": "6.78°S 106.98°E",
+        "image":"https://phinemo.com/wp-content/uploads/2017/08/gede-1.jpg"
+    },
+    {
+        "nama": "Patuha",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2434 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "7.160°S 107.40°E",
+        "image":"https://pariwisataindonesia.id/wp-content/uploads/2021/12/gunung_patuha.jpg"
+    },
+    {
+        "nama": "Wayang-Windu",
+        "bentuk": "kubah lava",
+        "tinggi_meter": "2182 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "7.208°S 107.63°E",
+        "image":"https://awsimages.detik.net.id/community/media/visual/2021/08/16/hujan-abu-vulkanik-gunung-merapi-4_169.jpeg?w=300&q="
+    },
+    {
+        "nama": "Malabar",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2343 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "7.13°S 107.65°E",
+        "image":"https://backpackerjakarta.com/wp-content/uploads/2016/08/tempatwisatadibandung-1.jpg"
+    },
+    {
+        "nama": "Tangkuban Perahu",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2084 meter",
+        "estimasi_letusan_terakhir": "2 Agustus 2019",
+        "geolokasi": "6.77°S 107.60°E",
+        "image":"https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2021/02/04/f12b8d46-03f2-42ad-a620-5e7ad748aec8-1612403518383-adf8c9df733bf89681751d3427f993d7.jpg"
+    },
+    {
+        "nama": "Papandayan",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2665 meter",
+        "estimasi_letusan_terakhir": "11 November 2002",
+        "geolokasi": "7.32°S 107.73°E",
+        "image":"https://asset.kompas.com/crops/vgrS-pfKafSjyKGUmsIc7LBGrIA=/0x0:999x666/750x500/data/photo/2021/08/25/61263bf38df6c.jpg"
+    },
+    {
+        "nama": "Kendang",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2608 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "7.23°S 107.72°E",
+        "image":"https://americansfortransit.org/storage/2020/06/landscape-3779159_640.jpg"
+    },
+    {
+        "nama": "Kamojang",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1730 meter",
+        "estimasi_letusan_terakhir": "Pleistosen",
+        "geolokasi": "7.125°S 107.80°E",
+        "image":"https://1.bp.blogspot.com/-3dNB1g76rR4/WWDmMt1q9dI/AAAAAAAAB9U/i1IMfQzZER0L3ahzJdq8qUYwGVnZ_1TQgCLcBGAs/s1600/cikuray.jpg.jpg"
+    },
+    {
+        "nama": "Guntur",
+        "bentuk": "kompleks",
+        "tinggi_meter": "2249 meter",
+        "estimasi_letusan_terakhir": "16 Oktober 1847",
+        "geolokasi": "7.143°S 107.840°E",
+        "image":"https://assets.pikiran-rakyat.com/crop/0x261:1080x912/x/photo/2019/12/18/1784006808.jpg"
+    },
+    {
+        "nama": "Tampomas",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1684 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "6.77°S 107.95°E",
+        "image":"https://img.inews.co.id/media/822/files/inews_new/2021/10/31/gunung_tampomas_sumedang.jpg"
+    },
+    {
+        "nama": "Galunggung",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2168 meter",
+        "estimasi_letusan_terakhir": "9 Januari 1984",
+        "geolokasi": "7.25°S 108.058°E",
+        "image":"https://asset.kompas.com/crops/sFdJqzlQ52Z_JGf5nID5u7FQoIw=/0x0:780x390/750x500/data/photo/2013/12/28/1749573galunggungg780x390.jpg"
+    },
+    {
+        "nama": "Talagabodas",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2201 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "7.208°S 108.07°E",
+        "image":"https://travelspromo.com/wp-content/uploads/2019/05/Pemandangan-Telaga-Bodas-Garut-dari-ketinggian-riki_rikarya-e1558928016985-640x400.jpg"
+    },
+    {
+        "nama": "Karaha",
+        "bentuk": "fumarol",
+        "tinggi_meter": "1155 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "7.12°S 108.08°E",
+        "image":"https://www.javatravel.net/wp-content/uploads/2020/04/Karaha-Bodas-Tasikmalaya.jpg"
+    },
+    {
+        "nama": "Ciremai",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "3078 meter",
+        "estimasi_letusan_terakhir": 1938,
+        "geolokasi": "6.892°S 108.40°E",
+        "image":"https://www.superlive.id/storage/superadventure/2021/06/16/661c668231d2.png"
+    },
+    {
+        "nama": "Slamet",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "3432 meter",
+        "estimasi_letusan_terakhir": "14 Maret 2014",
+        "geolokasi": "7.242°S 109.208°E",
+        "image":"https://awsimages.detik.net.id/community/media/visual/2021/02/05/gunung-slamet_43.jpeg?w=700&q=90"
+    },
+    {
+        "nama": "Dieng",
+        "bentuk": "kompleks",
+        "tinggi_meter": "2565 meter",
+        "estimasi_letusan_terakhir": "31 Desember 1996",
+        "geolokasi": "7.20°S 109.92°E",
+        "image":"https://img.diengbackpacker.com/Dieng%20Plateau%20atau%20dataran%20Tinggi%20Dieng.jpg"
+    },
+    {
+        "nama": "Sindoro",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "3136 meter",
+        "estimasi_letusan_terakhir": "29 Oktober 2011",
+        "geolokasi": "7.30°S 109.992°E",
+        "image":"https://asset.kompas.com/crops/vugN4xYzz9fxKFPSV_Zn9gd9Rys=/0x0:1000x667/750x500/data/photo/2019/10/15/5da5aef8d7542.jpg"
+    },
+    {
+        "nama": "Sumbing",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "3371 meter",
+        "estimasi_letusan_terakhir": 1730,
+        "geolokasi": "7.384°S 110.070°E",
+        "image":"https://travelspromo.com/wp-content/uploads/2021/02/pemandangan-gunung-sindoro-dari-puncak-gunung-sumbing.jpg"
+    },
+    {
+        "nama": "Ungaran",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2050 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "7.18°S 110.33°E",
+        "image":"https://travelspromo.com/wp-content/uploads/2021/02/Gunung-Ungaran-Semarang.jpg"
+    },
+    {
+        "nama": "Telomoyo",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1894 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "7.37°S 110.40°E",
+        "image":"https://asset-a.grid.id/crop/0x0:0x0/945x630/photo/2021/11/17/6190e149e0c29jpg-20211117064719.jpg"
+    },
+    {
+        "nama": "Merbabu",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "3145 meter",
+        "estimasi_letusan_terakhir": 1797,
+        "geolokasi": "7.45°S 110.43°E",
+        "image":"https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/10/09/1417087865.png"
+    },
+    {
+        "nama": "Merapi",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2968 meter",
+        "estimasi_letusan_terakhir": 2021,
+        "geolokasi": "7.542°S 110.442°E",
+        "image":"https://lh3.googleusercontent.com/-kLpPHo-FI-o/YndwFbK8YqI/AAAAAAAEofE/lcQck_k_fTUtLJ8xcVF-Rs1JKlTJmqQIwCNcBGAsYHQ/s1600/00420747.jpg"
+    },
+    {
+        "nama": "Muria",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1625 meter",
+        "estimasi_letusan_terakhir": "160 SM",
+        "geolokasi": "6.62°S 110.88°E",
+        "image":"https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1529132751/e7wtf65kedarqut3vhzt.jpg"
+    },
+    {
+        "nama": "Lawu",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "3265 meter",
+        "estimasi_letusan_terakhir": "28 November 1885",
+        "geolokasi": "7.625°S 111.192°E",
+        "image":"https://asset.kompas.com/crops/heSaiwMi47mNt9IBKYLGgR3lgMc=/0x0:780x520/750x500/data/photo/2019/06/21/3507694318.jpg"
+    },
+    {
+        "nama": "Wilis",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2563 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "7.808°S 111.758°E",
+        "image":"https://1.bp.blogspot.com/-wnp_OgwLwB0/XYxD6fZVy8I/AAAAAAAA55Q/m7mVZA-4sXkLoRejFAOKx4js0NeawfGkgCLcBGAsYHQ/s1600/Pendakian%2BGunung%2BWilis%2Bvia%2BKediri.jpg"
+    },
+    {
+        "nama": "Kelud",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1731 meter",
+        "estimasi_letusan_terakhir": "13 Februari 2014",
+        "geolokasi": "7.93°S 112.308°E",
+        "image":"https://img.okezone.com/content/2022/02/12/337/2546375/peristiwa-13-februari-meletusnya-gunung-kelud-5DQ657dDbY.jpg"
+    },
+    {
+        "nama": "Kawi-Butak",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2651 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "7.92°S 112.45°E",
+        "image":"https://www.wowkeren.com/display/images/photo/2019/07/26/00265949s5.jpg"
+    },
+    {
+        "nama": "Arjuno-Welirang",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "3339 meter",
+        "estimasi_letusan_terakhir": "15 Agustus 1952",
+        "geolokasi": "7.725°S 112.58°E",
+        "image":"https://tahuraradensoerjo.or.id/images/owa/arjuno/img-03.png"
+    },
+    {
+        "nama": "Penanggungan",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1653 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "7.62°S 112.63°E",
+        "image":"https://statik.tempo.co/data/2013/07/17/id_202769/202769_620.jpg"
+    },
+    {
+        "nama": "Malang",
+        "bentuk": "maar",
+        "tinggi_meter": "680 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "8.02°S 112.68°E",
+        "image":"https://statik.tempo.co/data/2013/07/17/id_202769/202769_620.jpg"
+    },
+    {
+        "nama": "Semeru",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "3676 meter",
+        "estimasi_letusan_terakhir": 2020,
+        "geolokasi": "8.108°S 112.92°E",
+        "image":"https://img.okezone.com/content/2021/12/06/408/2512415/7-fakta-gunung-semeru-tertinggi-di-pulau-jawa-yang-keindahannya-mendunia-Qsua0pCDiV.JPG"
+    },
+    {
+        "nama": "Bromo",
+        "bentuk": "kerucut bara",
+        "tinggi_meter": "2329 meter",
+        "estimasi_letusan_terakhir": "8 Juni 2016",
+        "geolokasi": "7.942°S 112.95°E",
+        "image":"https://asset.kompas.com/crops/jNJCw78jRpATerjMmadbBwqblkE=/0x0:1800x1200/750x500/data/photo/2021/05/10/6099375e04acb.jpg"
+    },
+    {
+        "nama": "Lamongan",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1651 meter",
+        "estimasi_letusan_terakhir": "5 Februari 1898",
+        "geolokasi": "7.979°S 113.342°E",
+        "image":"https://3.bp.blogspot.com/-QW745G1W7Mo/U-ZfLm40JpI/AAAAAAAAAHA/eonyirJT1No/w1200-h630-p-k-no-nu/lamongan+gunung.JPG"
+    },
+    {
+        "nama": "Lurus",
+        "bentuk": "kompleks",
+        "tinggi_meter": "539 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "7.73°S 113.58°E",
+        "image":""
+    },
+    {
+        "nama": "Iyang-Argapura",
+        "bentuk": "kompleks",
+        "tinggi_meter": "3088 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "7.97°S 113.57°E",
+        "image":"https://touaregadventure.com/wp-content/uploads/2019/03/2-13.jpg"
+    },
+    {
+        "nama": "Raung",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "3332 meter",
+        "estimasi_letusan_terakhir": "21 Januari 2021",
+        "geolokasi": "8.125°S 114.042°E",
+        "image":"https://assets.pikiran-rakyat.com/crop/7x52:1079x768/x/photo/2021/01/21/739126744.jpg"
+    },
+    {
+        "nama": "Ijen",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2799 meter",
+        "estimasi_letusan_terakhir": "28 Juni 1999",
+        "geolokasi": "8.058°S 114.242°E",
+        "image":"https://theworldtravelguy.com/wp-content/uploads/2021/07/DJI_0126_1200.jpg"
+    },
+    {
+        "nama": "Baluran",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1247 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "7.85°S 114.37°E",
+        "image":"https://wisato.id/wp-content/uploads/2021/08/Gunung-Baluran.jpg"
+    },
+    {
+        "nama": "Merbuk",
+        "bentuk": "N/A",
+        "tinggi_meter": "1386 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "-",
+        "image":"https://republikwisata.com/wp-content/uploads/2020/11/Gunung-Merbuk.jpg"
+    },
+    {
+        "nama": "Bratan",
+        "bentuk": "kaldera",
+        "tinggi_meter": "2276 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "8.28°S 115.13°E",
+        "image":""
+    },
+    {
+        "nama": "Batur",
+        "bentuk": "kaldera",
+        "tinggi_meter": "1717 meter",
+        "estimasi_letusan_terakhir": "15 Maret 1999",
+        "geolokasi": "8.242°S 115.375°E",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/4/47/Mount_Batur.JPG"
+    },
+    {
+        "nama": "Agung",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "3142 meter",
+        "estimasi_letusan_terakhir": "2 Juli 2018",
+        "geolokasi": "8.342°S 115.508°E",
+        "image":"http://siagabencana.com/po-content/uploads/gunung_agung.jpg"
+    },
+    {
+        "nama": "Rinjani",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "3726 meter",
+        "estimasi_letusan_terakhir": "27 September 2016",
+        "geolokasi": "8.42°S 116.47°E",
+        "image":"https://asset.kompas.com/crops/WYcYPfavcrfsNzSm6bXugeuKloA=/0x0:740x493/750x500/data/photo/2021/03/27/605e9f16e805f.jpg"
+    },
+    {
+        "nama": "Tambora",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2722 meter",
+        "estimasi_letusan_terakhir": 1967,
+        "geolokasi": "8.25°S 118.00°E",
+        "image":"https://i0.wp.com/www.kobarksb.com/wp-content/uploads/2012/11/Gunung-Tambora-1.jpg?fit=900642&ssl=1"
+    },
+    {
+        "nama": "Sangeang Api",
+        "bentuk": "kompleks",
+        "tinggi_meter": "1949 meter",
+        "estimasi_letusan_terakhir": "30 Juli 1985",
+        "geolokasi": "8.20°S 119.07°E",
+        "image":"http://picture.triptrus.com/image/2017/08/gunung-sangeang-api.jpeg"
+    },
+    {
+        "nama": "Wai Sano",
+        "bentuk": "kaldera",
+        "tinggi_meter": "903 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "8.72°S 120.02°E",
+        "image":""
+    },
+    {
+        "nama": "Poco Leok",
+        "bentuk": "N/A",
+        "tinggi_meter": "1675 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "8.68°S 120.48°E",
+        "image":"https://www.mongabay.co.id/wp-content/uploads/2018/05/flores2ni-6a4b3b4a-f0b5-41ae-b15a-7e68252bed89.jpg"
+    },
+    {
+        "nama": "Ranaka",
+        "bentuk": "kubah lava",
+        "tinggi_meter": "2100 meter",
+        "estimasi_letusan_terakhir": "Maret 1991",
+        "geolokasi": "8.62°S 120.52°E",
+        "image":"https://wisato.id/wp-content/uploads/2021/08/Gunung-Baluran.jpg"
+    },
+    {
+        "nama": "Inierie",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2245 meter",
+        "estimasi_letusan_terakhir": "8050 SM",
+        "geolokasi": "8.875°S 120.95°E",
+        "image":"https://www.carrierstory.com/wp-content/uploads/2021/09/piramida-alam-yang-menggetarkan-jiwa-para-pendaki.jpg"
+    },
+    {
+        "nama": "Inielika",
+        "bentuk": "kompleks",
+        "tinggi_meter": "1559 meter",
+        "estimasi_letusan_terakhir": "11 Januari 2001",
+        "geolokasi": "8.73°S 120.98°E",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Flores_Bajawa_red_lakes.jpg"
+    },
+    {
+        "nama": "Ebulobo",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "2124 meter",
+        "estimasi_letusan_terakhir": "27 Februari 1969",
+        "geolokasi": "8.82°S 121.18°E",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/b7/a3/f5/0707181635-hdr-largejpg.jpg?w=1200&h=1200&s=1"
+    },
+    {
+        "nama": "Iya",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "637 meter",
+        "estimasi_letusan_terakhir": "27 Januari 1969",
+        "geolokasi": "8.897°S 121.645°E",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/gunung-iya-di-kabupaten-ende-nusa-tenggara-timur-_161005150031-941.jpg"
+    },
+    {
+        "nama": "Sukaria",
+        "bentuk": "kaldera",
+        "tinggi_meter": "1500 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "8.792°S 121.77°E",
+        "image": ""
+    },
+    {
+        "nama": "Ndete Napu",
+        "bentuk": "fumarol",
+        "tinggi_meter": "750 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "8.72°S 121.78°E",
+        "image": ""
+    },
+    {
+        "nama": "Kelimutu",
+        "bentuk": "kompleks",
+        "tinggi_meter": "1639 meter",
+        "estimasi_letusan_terakhir": "3 Juni 1968",
+        "geolokasi": "8.77°S 121.82°E",
+        "image": "https://asset.kompas.com/crops/7BAA_ly7b-MmcoKLamKOPBypZx8=/53x0:676x415/750x500/data/photo/2020/05/18/5ec278e912802.jpg"
+    },
+    {
+        "nama": "Paluweh",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "875 meter",
+        "estimasi_letusan_terakhir": "3 Februari 1985",
+        "geolokasi": "8.32°S 121.708°E",
+        "image": "http://3.bp.blogspot.com/-9_txIO4IVSg/Uwipjf8EySI/AAAAAAAArp0/2HSM7hquwlk/s1600/35687_1286446492249_5262206_n.jpg"
+    },
+    {
+        "nama": "Egon",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1703 meter",
+        "estimasi_letusan_terakhir": "6 Februari 2005",
+        "geolokasi": "8.67°S 122.45°E",
+        "image": "https://www.harianwisata.com/wp-content/uploads/2021/04/Gunung-Egon.jpg"
+    },
+    {
+        "nama": "Ilimuda",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1100 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "8.478°S 122.671°E",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ilimuda.jpg"
+    },
+    {
+        "nama": "Lewotobi",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1703 meter",
+        "estimasi_letusan_terakhir": "30 Mei 2003",
+        "geolokasi": "8.542°S 122.775°E",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/lewotobi-_140214173510-534.jpg"
+    },
+    {
+        "nama": "Leroboleng",
+        "bentuk": "kompleks",
+        "tinggi_meter": "1117 meter",
+        "estimasi_letusan_terakhir": "26 Juni 2003",
+        "geolokasi": "8.358°S 122.842°E",
+        "image": "https://magma.vsi.esdm.go.id/img/ga/LER/LER202204302400.png"
+    },
+    {
+        "nama": "Riang Kotang",
+        "bentuk": "fumarol",
+        "tinggi_meter": "200 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "8.30°S 122.892°E",
+        "image": ""
+    },
+    {
+        "nama": "Iliboleng",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1659 meter",
+        "estimasi_letusan_terakhir": "Juni 1993",
+        "geolokasi": "8.342°S 123.258°E",
+        "image": "https://magma.vsi.esdm.go.id/img/ga/BOL/BOL202006082400.png"
+    },
+    {
+        "nama": "Lewotolo",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1423 meter",
+        "estimasi_letusan_terakhir": "15 Desember 1951",
+        "geolokasi": "8.272°S 123.505°E",
+        "image": "https://awsimages.detik.net.id/community/media/visual/2020/11/29/gunung-ili-lewotolo-di-lembata-nusa-tenggara-timur-pvmbg_169.jpeg?w=700&q=90"
+    },
+    {
+        "nama": "Ililabalekan",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1018 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "8.55°S 123.38°E",
+        "image": ""
+    },
+    {
+        "nama": "Iliwerung",
+        "bentuk": "kompleks",
+        "tinggi_meter": "1018 meter",
+        "estimasi_letusan_terakhir": "22 Mei 1999",
+        "geolokasi": "8.53°S 123.57°E",
+        "image": "https://t-2.tstatic.net/jogja/foto/bank/images/letusan-gunung-api-ille-werung.jpg"
+    },
+    {
+        "nama": "Batu Tara",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "748 meter",
+        "estimasi_letusan_terakhir": 1847,
+        "geolokasi": "7.792°S 123.579°E",
+        "image": "https://phinemo.com/wp-content/uploads/2018/03/20759728_163909530848221_8212311326349852672_n.jpg"
+    },
+    {
+        "nama": "Sirung",
+        "bentuk": "kompleks",
+        "tinggi_meter": "862 meter",
+        "estimasi_letusan_terakhir": 1970,
+        "geolokasi": "8.508°S 124.13°E",
+        "image": "http://picture.triptrus.com/image/2014/06/gunung-sirung-3.jpeg"
+    },
+    {
+        "nama": "Yersey",
+        "bentuk": "bawah laut",
+        "tinggi_meter": "−3800 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "7.53°S 123.95°E",
+        "image": "https://i2.wp.com/suarapakar.com/wp-content/uploads/2022/01/pvmbg-2-gunung-api-bawah-laut-di-indonesia-berpotensi-bahaya-jika-erupsi.jpg?fit=900%2C500&ssl=1"
+    },
+    {
+        "nama": "Kaisar Tiongkok",
+        "bentuk": "bawah laut",
+        "tinggi_meter": "−2850 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "6.62°S 124.22°E",
+        "image": ""
+    },
+    {
+        "nama": "Nieuwerkerk",
+        "bentuk": "bawah laut",
+        "tinggi_meter": "−2285 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "6.60°S 124.675°E",
+        "image": "https://2.bp.blogspot.com/-cxFuFPmVr9Q/VGEZkff4khI/AAAAAAAAB94/mwRt-iu6t_A/s1600/gunung%2Blaut.jpg"
+    },
+    {
+        "nama": "Gunungapi Wetar",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "282 meter",
+        "estimasi_letusan_terakhir": 1699,
+        "geolokasi": "6.642°S 126.65°E",
+        "image": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1621018700/p3vjuq7zfoznjsf03oe0.png"
+    },
+    {
+        "nama": "Wurlali",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "868 meter",
+        "estimasi_letusan_terakhir": "3 Juni 1892",
+        "geolokasi": "7.125°S 128.675°E",
+        "image": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1621425266/uzjtvhzmnuxokhw09pld.png"
+    },
+    {
+        "nama": "Teon",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "655 meter",
+        "estimasi_letusan_terakhir": "3 Juni 1904",
+        "geolokasi": "6.92°S 129.125°E",
+        "image": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1621770599/def4wptkuh5luanhtoke.png"
+    },
+    {
+        "nama": "Nila",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "781 meter",
+        "estimasi_letusan_terakhir": "7 Mei 1968",
+        "geolokasi": "6.73°S 129.50°E",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nila_Island.jpg"
+    },
+    {
+        "nama": "Serua",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "641 meter",
+        "estimasi_letusan_terakhir": "18 September 1921",
+        "geolokasi": "6.30°S 130.00°E",
+        "image": "https://live.staticflickr.com/126/348697554_5c6fa5a925_b.jpg"
+    },
+    {
+        "nama": "Manuk",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "282 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "5.53°S 130.292°E",
+        "image": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1619845735/lmwtdjspm8gyqusl3fkn.png"
+    },
+    {
+        "nama": "Banda Api",
+        "bentuk": "kaldera",
+        "tinggi_meter": "640 meter",
+        "estimasi_letusan_terakhir": "9 Mei 1988",
+        "geolokasi": "4.525°S 129.871°E",
+        "image": "http://backpackerjakarta.com/wp-content/uploads/2017/11/pemandangan-gunung-api-banda-dari-pulau-banda-besar.jpg"
+    },
+    {
+        "nama": "Colo",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "507 meter",
+        "estimasi_letusan_terakhir": "18 Juli 1983",
+        "geolokasi": "0.17°S 121.608°E",
+        "image": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1587628451/xnjvy3kvcpaebbfskysd.png"
+    },
+    {
+        "nama": "Ambang",
+        "bentuk": "kompleks",
+        "tinggi_meter": "1795 meter",
+        "estimasi_letusan_terakhir": 1845,
+        "geolokasi": "0.75°N 124.42°E",
+        "image": "https://www.hotelmurah.com/ceritawisata/wp-content/uploads/2021/01/Gunung-ambang.jpg"
+    },
+    {
+        "nama": "Soputan",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1784 meter",
+        "estimasi_letusan_terakhir": "30 Oktober 2007",
+        "geolokasi": "1.108°N 124.73°E",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipO4YWq8FK0dqIp5ZKFxlkHSiqT0OkfZfNT-TGub"
+    },
+    {
+        "nama": "Sempu",
+        "bentuk": "kaldera",
+        "tinggi_meter": "1549 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "1.13°N 124.758°E",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/10/89/37/5d/20170903-053818-largejpg_rotated_90.jpg"
+    },
+    {
+        "nama": "Tondano",
+        "bentuk": "kaldera",
+        "tinggi_meter": "1202 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "1.23°N 124.83°E",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/51/0a/aa/view-from-empung-volcano.jpg?w=1200&h=-1&s=1"
+    },
+    {
+        "nama": "Lokon-Empung",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1580 meter",
+        "estimasi_letusan_terakhir": "15 Juli 2011",
+        "geolokasi": "1.358°N 124.792°E",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lokon.JPG/1200px-Lokon.JPG"
+    },
+    {
+        "nama": "Mahawu",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1324 meter",
+        "estimasi_letusan_terakhir": "16 November 1977",
+        "geolokasi": "1.358°N 124.858°E",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/05/e1/99/5e/mahawu-volcano.jpg"
+    },
+    {
+        "nama": "Klabat",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1995 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "1.47°N 125.03°E",
+        "image": "https://www.gunungbagging.com/wp-content/NEXTGEN/Klabat/klabat%20026.JPG"
+    },
+    {
+        "nama": "Tongkoko",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1149 meter",
+        "estimasi_letusan_terakhir": 1880,
+        "geolokasi": "1.52°N 125.20°E",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Tangkoko_National_Park%2C_North_Sulawesi%2C_Indonesia.jpg"
+    },
+    {
+        "nama": "Ruang",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "725 meter",
+        "estimasi_letusan_terakhir": "25 September 2002",
+        "geolokasi": "2.30°N 125.37°E",
+        "image": "https://i.ytimg.com/vi/BzyNx5mPpnU/maxresdefault.jpg"
+    },
+    {
+        "nama": "Karangetang",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1784 meter",
+        "estimasi_letusan_terakhir": "Agustus 2007",
+        "geolokasi": "2.78°N 125.40°E",
+        "image": "https://img.volcanodiscovery.com/uploads/tx_tdtour/Id15-4924D6.jpg"
+    },
+    {
+        "nama": "Banua Wuhu",
+        "bentuk": "bawah laut",
+        "tinggi_meter": "−5 meter",
+        "estimasi_letusan_terakhir": "18 Juli 1919",
+        "geolokasi": "3.138°N 125.491°E",
+        "image": "https://sampaijauh.com/wp-content/uploads/2021/07/Gambar-Ilustrasi-gunung-Berapi_Pinterest.com_.jpg"
+    },
+    {
+        "nama": "Awu",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1320 meter",
+        "estimasi_letusan_terakhir": "2 Juni 2004",
+        "geolokasi": "3.67°N 125.50°E",
+        "image": "https://volcano.si.edu/gallery/photos/GVP-12023.jpg"
+    },
+    {
+        "nama": "Submarine 1922",
+        "bentuk": "bawah laut",
+        "tinggi_meter": "−5000 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "3.97°N 125.17°E",
+        "image": ""
+    },
+    {
+        "nama": "Tarakan",
+        "bentuk": "kerucut piroklastik",
+        "tinggi_meter": "318 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "1.83°N 127.83°E",
+        "image": "https://cimages1.touristlink.com/data/cache/M/O/U/N/T/T/A/R/mount-tarakan_1_400_300.jpg"
+    },
+    {
+        "nama": "Dukono",
+        "bentuk": "kompleks",
+        "tinggi_meter": "1335 meter",
+        "estimasi_letusan_terakhir": "13 Agustus 1933",
+        "geolokasi": "1.68°N 127.88°E",
+        "image": "https://authentic-indonesia.com/wp-content/uploads/2020/02/dukono-is-the-most-active-volcano.jpg"
+    },
+    {
+        "nama": "Tobaru",
+        "bentuk": "N/A",
+        "tinggi_meter": "1035 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "1.63°N 127.67°E",
+        "image": ""
+    },
+    {
+        "nama": "Ibu",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1325 meter",
+        "estimasi_letusan_terakhir": "Mei 2005",
+        "geolokasi": "1.488°N 127.63°E",
+        "image": "https://i.ytimg.com/vi/MIFlajX1KFg/maxresdefault.jpg"
+    },
+    {
+        "nama": "Gamkonora",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1635 meter",
+        "estimasi_letusan_terakhir": "9 Juli 2007",
+        "geolokasi": "1.38°N 127.53°E",
+        "image": "https://volcano.si.edu/gallery/photos/GVP-01287.jpg"
+    },
+    {
+        "nama": "Todoko-Ranu",
+        "bentuk": "kaldera",
+        "tinggi_meter": "979 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "1.25°N 127.47°E",
+        "image": "https://peakvisor.com/photo/3/36/Gamkonora.jpg"
+    },
+    {
+        "nama": "Jailolo",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1130 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "1.08°N 127.42°E",
+        "image": "https://volcanohotspot.files.wordpress.com/2017/10/ja01.jpg"
+    },
+    {
+        "nama": "Hiri",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "630 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "0.90°N 127.32°E",
+        "image": "https://www.molon.de/galleries/Indonesia/Maluku/Ternate/images01/37%20Hiri%20island%20volcano.jpg"
+    },
+    {
+        "nama": "Gamalama",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1715 meter",
+        "estimasi_letusan_terakhir": "31 Juli 2003",
+        "geolokasi": "0.80°N 127.33°E",
+        "image": "https://hmgf.fmipa.ugm.ac.id/wp-content/uploads/sites/483/2015/12/gamalamaternate.jpg"
+    },
+    {
+        "nama": "Gunung Tidore",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1730 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "0.658°N 127.40°E",
+        "image": "https://1.bp.blogspot.com/--SDQJdobYTQ/VXEq1HMpELI/AAAAAAAABqQ/O7VdruAt9uI/s1600/Mendaki%2BPuncak%2BKie%2BMatubu%2B-%2BWisata%2BKota%2BTidore.png"
+    },
+    {
+        "nama": "Mare",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "308 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "0.57°N 127.40°E",
+        "image": "https://www.celebes.co/maluku/wp-content/uploads/2021/09/Pulau-Mare-Tidore.jpg"
+    },
+    {
+        "nama": "Moti",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "950 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "0.45°N 127.40°E",
+        "image": "https://kataomed.com/wp-content/uploads/2019/05/sidik195-1557818994646.jpg"
+    },
+    {
+        "nama": "Kie Besi",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1357 meter",
+        "estimasi_letusan_terakhir": "29 Juli 1988",
+        "geolokasi": "0.32°N 127.40°E",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Makian_volcano.jpg"
+    },
+    {
+        "nama": "Tigalalu",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "422 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "0.07°N 127.42°E",
+        "image": "https://t-2.tstatic.net/poskupangwiki/foto/bank/images/Objek-wisata-di-Halmahera-barat.jpg"
+    },
+    {
+        "nama": "Amasing",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "1030 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "0.53°S 127.48°E",
+        "image": ""
+    },
+    {
+        "nama": "Bibinoi",
+        "bentuk": "stratovulkan",
+        "tinggi_meter": "900 meter",
+        "estimasi_letusan_terakhir": "N/A",
+        "geolokasi": "0.77°S 127.72°E",
+        "image": "https://volcano.si.edu/gallery/photos/GVP-11701.jpg"
+    }
+]
